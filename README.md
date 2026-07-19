@@ -105,9 +105,9 @@ This project is in **advanced development**, with many features already implemen
 ### 🔥 Core Features
 - [ ] Partner dashboard  
 - [ ] Driving school CRUD  
-- [ ] Student profile  
-- [ ] XP reward system  
-- [ ] Advanced leaderboard  
+- [x] Student profile  
+- [x] XP reward system  
+- [x] Advanced leaderboard  
 - [ ] Search engine  
 - [ ] Map integration  
 
