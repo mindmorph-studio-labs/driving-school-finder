@@ -1,0 +1,6 @@
+{
+  "name": "Jamaica Driving School Finder",
+  "description": "A premium, modern directory for driving schools across Jamaica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
