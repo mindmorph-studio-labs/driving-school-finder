@@ -7,8 +7,6 @@
 </div>
 
 # Jamaica Driving School Finder 🚗🇯🇲  
-
-![Status](https://img.shields.io/badge/Status-Concept%20en%20cours-yellow)
  
 > Helping Jamaican students find the best driving schools through a modern directory and interactive learning tools.
 
