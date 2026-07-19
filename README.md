@@ -6,6 +6,17 @@
   <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
+## 📌 Project Status
+
+![Status](https://img.shields.io/badge/Status-Prototype%20IA-blue)
+![Status](https://img.shields.io/badge/Status-Concept%20en%20cours-yellow)
+![Status](https://img.shields.io/badge/Status-Work%20in%20progress-orange)
+![Status](https://img.shields.io/badge/Status-Early%20build-lightgrey)
+![Status](https://img.shields.io/badge/Generated%20with-AI-green)
+
+> Ce projet est un **prototype initial généré avec Google AI Studio**, actuellement en phase de **construction**, **expérimentation** et **structuration** sous MindMorph Studio Labs.
+
+
 # Jamaica Driving School Finder 🚗🇯🇲  
  
 > Helping Jamaican students find the best driving schools through a modern directory and interactive learning tools.
