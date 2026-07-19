@@ -6,6 +6,10 @@
 </div>
 
 # Jamaica Driving School Finder 🚗🇯🇲  
+
+> 🚧 Work in progress — early prototype generated with Google AI Studio  
+> Helping Jamaican students find the best driving schools through a modern directory and interactive learning tools.
+
 **A modern, gamified directory for driving schools across Jamaica.**  
 Built with **Next.js 15**, **React 19**, **TailwindCSS 4**, and optional **Gemini API**.
 
